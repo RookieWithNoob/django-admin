@@ -4,7 +4,7 @@
 ## 第一步
 下载源码到本地
 ```shell
-git clone https://github.com/newpanjing/simpleui_demo
+git clone https://github.com/RookieWithNoob/django-admin.git
 ```
 
 ## 第二步
